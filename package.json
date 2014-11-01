@@ -1,0 +1,23 @@
+{
+  "name": "hubot-amazon-bookimg",
+  "version": "0.0.1",
+  "description": "A hubot script get url of book image from Amazon.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asmz/hubot-amazon-bookimg.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "amazon"
+  ],
+  "author": {
+    "name": "asmz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asmz/hubot-amazon-bookimg/issues"
+  },
+  "homepage": "https://github.com/asmz/hubot-amazon-bookimg"
+}
